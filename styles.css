@@ -55,3 +55,9 @@ footer p {
 ul li {
   padding: 2px 2px;
 }
+
+.circular-square {
+  width: 5rem;
+  box-shadow: 0 0 10px 0 rgb(185, 185, 185);
+  text-align: end;
+}
